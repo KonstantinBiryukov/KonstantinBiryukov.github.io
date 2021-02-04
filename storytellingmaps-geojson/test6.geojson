@@ -49,9 +49,9 @@
     {
       "type": "Feature",
       "properties": {
-        "base_height": 20,
+        "base_height": 5,
         "color": "grey",
-        "height": 30,
+        "height": 10,
         "level": 1,
         "name": "arch"
       },
@@ -63,15 +63,15 @@
               45.552715
             ],
             [
-              -94.148444,
+              -94.148445,
               45.552715
             ],
             [
-              -94.148443,
+              -94.148445,
               45.552666
             ],
             [
-              -94.148448,
+              -94.148449,
               45.552666
             ],
             [
@@ -87,9 +87,9 @@
     {
       "type": "Feature",
       "properties": {
-        "base_height": 20,
+        "base_height": 5,
         "color": "grey",
-        "height": 30,
+        "height": 10,
         "level": 1,
         "name": "arch"
       },
@@ -101,16 +101,16 @@
               45.552649
             ],
             [
-              -94.14864,
+              -94.148639,
               45.552645
             ],
             [
-              -94.148591,
-              45.552644
+              -94.148592,
+              45.552645
             ],
             [
               -94.148545,
-              45.552644
+              45.552645
             ],
             [
               -94.148545,
@@ -167,9 +167,9 @@
     {
       "type": "Feature",
       "properties": {
-        "base_height": 15,
+        "base_height": 5,
         "color": "grey",
-        "height": 20,
+        "height": 10,
         "level": 1,
         "name": "arch"
       },
@@ -205,9 +205,9 @@
     {
       "type": "Feature",
       "properties": {
-        "base_height": 15,
+        "base_height": 5,
         "color": "grey",
-        "height": 20,
+        "height": 10,
         "level": 1,
         "name": "arch"
       },
@@ -249,7 +249,7 @@
       "properties": {
         "base_height": 0,
         "color": "grey",
-        "height": 20,
+        "height": 10,
         "level": 1,
         "name": "walls"
       },
@@ -333,9 +333,9 @@
     {
       "type": "Feature",
       "properties": {
-        "base_height": 15,
+        "base_height": 5,
         "color": "grey",
-        "height": 20,
+        "height": 10,
         "level": 1,
         "name": "arch"
       },
@@ -451,9 +451,9 @@
     {
       "type": "Feature",
       "properties": {
-        "base_height": 0,
+        "base_height": 5,
         "color": "grey",
-        "height": 20,
+        "height": 10,
         "level": 1,
         "name": "wall"
       },
@@ -491,7 +491,7 @@
       "properties": {
         "base_height": 0,
         "color": "grey",
-        "height": 20,
+        "height": 10,
         "level": 1,
         "name": "wall"
       },
@@ -511,8 +511,8 @@
               45.552646
             ],
             [
-              -94.148766,
-              45.552647
+              -94.148765,
+              45.552646
             ],
             [
               -94.148766,
@@ -567,7 +567,7 @@
       "properties": {
         "base_height": 0,
         "color": "grey",
-        "height": 20,
+        "height": 10,
         "level": 1,
         "name": ""
       },
@@ -619,6 +619,52 @@
     {
       "type": "Feature",
       "properties": {
+        "base_height": 0,
+        "color": "grey",
+        "height": 10,
+        "level": 1,
+        "name": "wall"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -94.148449,
+              45.552665
+            ],
+            [
+              -94.148445,
+              45.552665
+            ],
+            [
+              -94.148445,
+              45.552644
+            ],
+            [
+              -94.148545,
+              45.552645
+            ],
+            [
+              -94.148545,
+              45.552647
+            ],
+            [
+              -94.148448,
+              45.552647
+            ],
+            [
+              -94.148449,
+              45.552665
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "929b2e76c3accbdd49ce9ec49e1864ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "base_height": 25,
         "color": "grey",
         "height": 30,
@@ -657,9 +703,9 @@
     {
       "type": "Feature",
       "properties": {
-        "base_height": 15,
+        "base_height": 5,
         "color": "grey",
-        "height": 20,
+        "height": 10,
         "level": 1,
         "name": "arch"
       },
@@ -695,9 +741,9 @@
     {
       "type": "Feature",
       "properties": {
-        "base_height": 15,
+        "base_height": 5,
         "color": "grey",
-        "height": 20,
+        "height": 10,
         "level": 1,
         "name": "arch"
       },
