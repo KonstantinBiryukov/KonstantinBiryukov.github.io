@@ -300,7 +300,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "base_height": 5,
+        "color": "grey",
+        "height": 10,
+        "level": 1,
+        "name": "arch"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -665,10 +671,10 @@
     {
       "type": "Feature",
       "properties": {
-        "base_height": 25,
+        "base_height": 5,
         "color": "grey",
-        "height": 30,
-        "level": 2,
+        "height": 10,
+        "level": 1,
         "name": "arch"
       },
       "geometry": {
@@ -778,7 +784,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "base_height": 5,
+        "color": "grey",
+        "height": 10,
+        "level": 1,
+        "name": "arch"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -807,44 +819,6 @@
         "type": "Polygon"
       },
       "id": "e3708fb12dcb399960b6e230c6e16d78"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "base_height": 15,
-        "color": "red",
-        "height": 30,
-        "level": 2,
-        "name": "hall2"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -94.148591,
-              45.55295
-            ],
-            [
-              -94.148452,
-              45.55295
-            ],
-            [
-              -94.148452,
-              45.552738
-            ],
-            [
-              -94.148587,
-              45.552739
-            ],
-            [
-              -94.148591,
-              45.55295
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "id": "ef803c6197a253f9f69ff9a6b73ed1a9"
     }
   ],
   "type": "FeatureCollection"
