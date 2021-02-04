@@ -2,7 +2,13 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "level": 1,
+        "name": "Multicultural Resource Center",
+        "height": 0,
+        "base_height": 0,
+        "color": "orange"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -32,7 +38,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "base_height": 0,
+        "color": "yellow",
+        "height": 40,
+        "level": 1,
+        "name": "main"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -252,7 +264,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "base_height": 0,
+        "color": "red",
+        "height": 20,
+        "level": 1,
+        "name": "Test4"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -282,7 +300,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "base_height": 0,
+        "color": "red",
+        "height": 30,
+        "level": 1,
+        "name": "Test3"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -380,7 +404,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "base_height": 0,
+        "color": "red",
+        "height": 40,
+        "level": 1,
+        "name": "Test"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -464,7 +494,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "base_height": 0,
+        "color": "red",
+        "height": 30,
+        "level": 1,
+        "name": "Test2"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -734,7 +770,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "base_height": 0,
+        "color": "black",
+        "height": 30,
+        "level": 1,
+        "name": "tes53"
+      },
       "geometry": {
         "coordinates": [
           [
