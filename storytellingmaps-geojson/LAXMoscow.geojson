@@ -1,0 +1,35 @@
+{
+    "type":
+        "FeatureCollection",
+    "features":
+        [
+            {
+                "type": "Feature",
+                "properties": {
+                    "FacilityName": "Sheremetyevo International Airport, Moscow. ",
+                    "Comments": "Opened in 1960. Approximately 46,000,000 passengers per year. It is the busiest airport in Russia, as well as the fifth-busiest airport in Europe."
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        37.411784166120405,
+                        55.97361215912416
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "FacilityName": "Los Angeles International Airport. ",
+                    "Comments": "Opened in 1930. Approximately 90,000,000 passengers per year. The world's third busiest and the United States' second busiest airport."
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -118.40511299589207,
+                        33.944011419272634
+                    ]
+                }
+            }
+        ]
+}
